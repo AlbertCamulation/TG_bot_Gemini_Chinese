@@ -1,0 +1,5 @@
+
+variable.py
+*.pyc
+log/access.log
+/log
