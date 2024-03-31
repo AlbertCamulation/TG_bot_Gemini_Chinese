@@ -13,7 +13,7 @@ class Globals:
   ]  
 
   ####### PATH #######
-  custom_front_head='C:/Users/Blood/Documents/Python/Gemini/'
+  custom_front_head='?'
   
   # Logger 位置
   file_handler_logging_FileHandler_path=custom_front_head+'log/access.log'
