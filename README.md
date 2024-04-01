@@ -34,3 +34,8 @@ custom_front_head='??'
 ```
 
 請將路徑和參數替換為你的實際設定。
+
+# 3. 執行啦
+```python
+python the_formal_bot.py
+```
